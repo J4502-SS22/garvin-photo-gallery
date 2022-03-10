@@ -1,0 +1,14 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+header, main {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.darkMode {
+  background: #000000;
+  color: #FAE500; /*This is a darker yellow*/
+}
